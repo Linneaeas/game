@@ -12,3 +12,4 @@
 /Users/jasmine/game/obj/Debug/net8.0/game.pdb
 /Users/jasmine/game/obj/Debug/net8.0/game.genruntimeconfig.cache
 /Users/jasmine/game/obj/Debug/net8.0/ref/game.dll
+/Users/jasmine/game/obj/Debug/net8.0/game.sourcelink.json
