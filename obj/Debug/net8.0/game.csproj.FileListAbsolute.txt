@@ -1,0 +1,14 @@
+/Users/jasmine/game/bin/Debug/net8.0/game
+/Users/jasmine/game/bin/Debug/net8.0/game.deps.json
+/Users/jasmine/game/bin/Debug/net8.0/game.runtimeconfig.json
+/Users/jasmine/game/bin/Debug/net8.0/game.dll
+/Users/jasmine/game/bin/Debug/net8.0/game.pdb
+/Users/jasmine/game/obj/Debug/net8.0/game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasmine/game/obj/Debug/net8.0/game.AssemblyInfoInputs.cache
+/Users/jasmine/game/obj/Debug/net8.0/game.AssemblyInfo.cs
+/Users/jasmine/game/obj/Debug/net8.0/game.csproj.CoreCompileInputs.cache
+/Users/jasmine/game/obj/Debug/net8.0/game.dll
+/Users/jasmine/game/obj/Debug/net8.0/refint/game.dll
+/Users/jasmine/game/obj/Debug/net8.0/game.pdb
+/Users/jasmine/game/obj/Debug/net8.0/game.genruntimeconfig.cache
+/Users/jasmine/game/obj/Debug/net8.0/ref/game.dll
